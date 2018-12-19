@@ -1,0 +1,4 @@
+slack_token: <slack-token>
+bot_name: graphy
+graph_urls:
+      kafka: http://localhost:3000
